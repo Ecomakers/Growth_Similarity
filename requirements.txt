@@ -7,7 +7,7 @@ plotly==5.24.1
 tslearn==0.6.3
 
 # tslearn 의존성 명시
-scikit-learn>=1.2
-scipy>=1.10
-numba>=0.56
-joblib>=1.3
+#scikit-learn>=1.2
+#scipy>=1.10
+#numba>=0.56
+#joblib>=1.3
